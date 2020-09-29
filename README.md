@@ -1,5 +1,5 @@
 # Movie App
 
-##React JS Fundamentals course (2020 update!)
+## React JS Fundamentals course (2020 update!)
 
-###This is including API about Movie Information
+### This is including API about Movie Information
