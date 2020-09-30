@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/NetfliXeung_MovieApp/static/css/main.a5603444.chunk.css",
-    "main.js": "/NetfliXeung_MovieApp/static/js/main.53808796.chunk.js",
-    "main.js.map": "/NetfliXeung_MovieApp/static/js/main.53808796.chunk.js.map",
+    "main.css": "/NetfliXeung_MovieApp/static/css/main.eec3a9e0.chunk.css",
+    "main.js": "/NetfliXeung_MovieApp/static/js/main.22073be8.chunk.js",
+    "main.js.map": "/NetfliXeung_MovieApp/static/js/main.22073be8.chunk.js.map",
     "runtime-main.js": "/NetfliXeung_MovieApp/static/js/runtime-main.5d9d63e7.js",
     "runtime-main.js.map": "/NetfliXeung_MovieApp/static/js/runtime-main.5d9d63e7.js.map",
-    "static/js/2.03729dac.chunk.js": "/NetfliXeung_MovieApp/static/js/2.03729dac.chunk.js",
-    "static/js/2.03729dac.chunk.js.map": "/NetfliXeung_MovieApp/static/js/2.03729dac.chunk.js.map",
+    "static/js/2.77275e5f.chunk.js": "/NetfliXeung_MovieApp/static/js/2.77275e5f.chunk.js",
+    "static/js/2.77275e5f.chunk.js.map": "/NetfliXeung_MovieApp/static/js/2.77275e5f.chunk.js.map",
     "index.html": "/NetfliXeung_MovieApp/index.html",
-    "precache-manifest.94167bc9202dad0e35df5ebaa6ea5a47.js": "/NetfliXeung_MovieApp/precache-manifest.94167bc9202dad0e35df5ebaa6ea5a47.js",
+    "precache-manifest.00e61d3ffca5f101147a61988a1fe865.js": "/NetfliXeung_MovieApp/precache-manifest.00e61d3ffca5f101147a61988a1fe865.js",
     "service-worker.js": "/NetfliXeung_MovieApp/service-worker.js",
-    "static/css/main.a5603444.chunk.css.map": "/NetfliXeung_MovieApp/static/css/main.a5603444.chunk.css.map",
-    "static/js/2.03729dac.chunk.js.LICENSE.txt": "/NetfliXeung_MovieApp/static/js/2.03729dac.chunk.js.LICENSE.txt"
+    "static/css/main.eec3a9e0.chunk.css.map": "/NetfliXeung_MovieApp/static/css/main.eec3a9e0.chunk.css.map",
+    "static/js/2.77275e5f.chunk.js.LICENSE.txt": "/NetfliXeung_MovieApp/static/js/2.77275e5f.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.5d9d63e7.js",
-    "static/js/2.03729dac.chunk.js",
-    "static/css/main.a5603444.chunk.css",
-    "static/js/main.53808796.chunk.js"
+    "static/js/2.77275e5f.chunk.js",
+    "static/css/main.eec3a9e0.chunk.css",
+    "static/js/main.22073be8.chunk.js"
   ]
 }

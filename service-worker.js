@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/NetfliXeung_MovieApp/precache-manifest.94167bc9202dad0e35df5ebaa6ea5a47.js"
+  "/NetfliXeung_MovieApp/precache-manifest.00e61d3ffca5f101147a61988a1fe865.js"
 );
 
 self.addEventListener('message', (event) => {
