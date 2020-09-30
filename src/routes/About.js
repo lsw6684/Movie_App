@@ -3,8 +3,8 @@ import "./About.css";
 function About(){
   return(
     <div className="about__container">
-  <span>About this page: I built it because I love movie.</span>
-  <span>-George Orwell, 1984</span>
+  <span> Go back. So embarrassed. </span>
+  <span>-sorry... not done</span>
   </div>
 );
 }
