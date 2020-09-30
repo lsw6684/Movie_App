@@ -5,7 +5,7 @@
 ### This is including API about Movie Information
 
 
-I practiced ***component, JSX, DOM, JSON, Router and so on.
+I practiced ***component, JSX, DOM, JSON, Router and so on.***
 
 # This will be more interactive
 
