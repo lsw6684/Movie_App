@@ -9,7 +9,7 @@ componentDidMount(){
   }
 }
   render(){
-    const {location} = this.props;
+    const {location} = this.props; 
     if(location.state){
       return <span>{location.state.title}{location.state.summary}</span>;
     }else{
