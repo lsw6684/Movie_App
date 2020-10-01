@@ -5,7 +5,7 @@
 ### This is including API about Movie Information
 
 
-I practiced ***component, JSX, DOM, JSON, Router, Navigator and so on using React.js ***
+I practiced ***component, JSX, DOM, JSON, Router, Navigator and so on using React.js***
 
 #### This will be more interactive
 
