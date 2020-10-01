@@ -1,4 +1,4 @@
-# NetfliXeung_Movie Application
+# NetfliXeung_Movie Application (not done!)
 
 ## React JS Fundamentals course (2020 update!)
 
