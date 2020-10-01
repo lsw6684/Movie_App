@@ -1,4 +1,4 @@
-# Movie App
+# NetfliXeung_Movie Application
 
 ## React JS Fundamentals course (2020 update!)
 
