@@ -10,6 +10,6 @@ I practiced ***component, JSX, DOM, JSON, Router, Navigator and so on using Reac
 #### This will be more interactive
 
 
-# [You can try this](https://lsw6684.github.io/NetfliXeung_MovieApp/)
+# [You can try this](https://lsw6684.github.io/NetfliXeung-MovieApp/)
 
 ![alt text](fullscreen.PNG)
